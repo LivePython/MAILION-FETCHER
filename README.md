@@ -1,5 +1,4 @@
 # MAILION-FETCHER
-
 This application is capable of extracting contacts in any email account. 
  
 * This mailing fetcher is an application capable of fetching all contacts in an email address.
