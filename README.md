@@ -1,5 +1,7 @@
 # MAILION-FETCHER
 This application is capable of extracting contacts in any email account. 
+Check its functionality here: https://www.youtube.com/watch?v=j4k9Uxuov6g&t=463s
+Read more about the application here: https://mailion2022mailer.systeme.io/9a63235c
  
 * This mailing fetcher is an application capable of fetching all contacts in an email address.
 * It fetches all emails from every folder (inbox, draft, sent, even junk, trash, and user custom folder) of the email.
